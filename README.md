@@ -1,5 +1,4 @@
 #Swift
-=====
 
 I want to learn Swift. This is my playground.
 
