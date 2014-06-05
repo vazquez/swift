@@ -17,7 +17,8 @@ var fruits = apples + oranges
 
 var answer = "You have "
 
-let constant: Float = 4.0
+let float1: Float = 4.0
+let float2:Float = 4.0
 
 let label = "The width is "
 
@@ -28,4 +29,9 @@ let widthLabel = label + String(width) + "px."
 let appleSummary = "I have \(apples) apples with me."
 
 let fruitSummary = "I have \(apples + oranges) fruits with me."
+
+var shoppingList = ["catfish", "water", "tulips"]
+
+shoppingList[1]
+
 
