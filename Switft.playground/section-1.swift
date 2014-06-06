@@ -34,4 +34,17 @@ var shoppingList = ["catfish", "water", "tulips"]
 
 shoppingList[1]
 
+var occupations = [
+    "Ricardo": "Designer",
+    "Gonzalo": "Developer"
+]
+
+occupations["Debora"] = "Leader"
+
+let emptyArray = String[]()
+
+let emptyDictionary = Dictionary<String, Float>()
+
+
+
 
